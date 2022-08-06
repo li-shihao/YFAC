@@ -23,9 +23,10 @@ export default function CTA() {
               <a
                 href="https://www.thebaummovement.org/sustainable-investing"
                 class="w-full"
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
-                <button className="bg-white px-20 lg:px-10 py-3 w-full text-emerald-600 text-md font-medium rounded-lg shadow-lg lg:w-auto">
+                <button className="bg-white px-20 lg:px-10 py-3 hover:bg-gray-200 w-full text-emerald-600  text-md font-medium rounded-lg shadow-lg lg:w-auto">
                   Learn more
                 </button>
               </a>

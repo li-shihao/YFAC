@@ -27,7 +27,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -54,7 +54,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -82,7 +82,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
