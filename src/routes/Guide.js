@@ -8,7 +8,7 @@ export default function Guide() {
       <Nav />
       <div className="flex flex-row justify-center py-20 border-b border-gray-200">
         <div className="flex justify-center flex-col max-w-4xl font-Inter">
-          <h4 className="text-blue-600 font-bold text-center">Guidelines</h4>
+          <h4 className="text-emerald-600 font-bold text-center">Guidelines</h4>
           <h2 className="font-extrabold text-4xl mt-4 text-center px-4">
             Rules
           </h2>
