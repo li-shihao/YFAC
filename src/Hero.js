@@ -1,10 +1,10 @@
 export default function Hero() {
   return (
-    <div class="relative bg-blue-600 overflow-hidden">
+    <div class="relative bg-emerald-600 overflow-hidden">
       <div class="max-w-7xl mx-auto">
-        <div class="relative z-10 pb-8 bg-blue-600 sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
+        <div class="relative z-10 pb-8 bg-emerald-600 sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
           <svg
-            class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-blue-600 transform translate-x-1/2"
+            class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-emerald-600 transform translate-x-1/2"
             fill="currentColor"
             viewBox="0 0 100 100"
             preserveAspectRatio="none"

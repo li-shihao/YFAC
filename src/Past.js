@@ -2,7 +2,7 @@ export default function Past() {
   return (
     <div className="flex flex-row justify-center mt-20">
       <div className="flex justify-center items-center flex-col max-w-7xl font-Inter">
-        <h4 className="text-blue-600 font-bold">CONGRATULATIONS</h4>
+        <h4 className="text-emerald-600 font-bold">CONGRATULATIONS</h4>
         <h2 className="font-extrabold text-4xl mt-4">2021 Winners</h2>
         <div className="flex flex-col items-center lg:flex-row gap-10">
           <div className="lg:order-2 -z-1 mt-10 flex  flex-col font-Inter rounded-2xl overflow-hidden bg-white max-w-5xl lg:max-w-none text-black lg:pb-10 pb-10 border-2 border-gray-200 shadow-md w-11/12 lg:w-1/3">
@@ -24,9 +24,10 @@ export default function Past() {
                 <a
                   href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149de2e62a50b06c033dd9b/1632230966067/yfac-analyst-report-INTC-BUY-final.pdf"
                   className="w-full"
-                  target="_blank" rel="noreferrer"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  <button className="bg-blue-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-blue-200 rounded-lg">
+                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -50,9 +51,10 @@ export default function Past() {
                 <a
                   href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149de6d7a38f773b33870ba/1632231036908/YFAC+-DNSD+Team.pdf"
                   className="w-full"
-                  target="_blank" rel="noreferrer"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  <button className="bg-blue-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-blue-200 rounded-lg">
+                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -77,9 +79,10 @@ export default function Past() {
                 <a
                   href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149deae1c5a5a4c80a9dd8e/1632231093095/Nguyen+Syan+YFAC+Tesla+Analyst+Report+Final+PDF+Submission.pdf"
                   className="w-full"
-                  target="_blank" rel="noreferrer"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  <button className="bg-blue-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-blue-200 rounded-lg">
+                  <button className="bg-emerald-600 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>

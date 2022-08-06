@@ -2,7 +2,7 @@ export default function Info() {
   return (
     <div className="flex flex-row justify-center mt-20">
       <div className="flex justify-center items-center flex-col max-w-4xl font-Inter">
-        <h4 className="text-blue-600 font-bold">INTRODUCING</h4>
+        <h4 className="text-emerald-600 font-bold">INTRODUCING</h4>
         <h2 className="font-extrabold text-4xl mt-4 px-4">What is the YFAC?</h2>
         <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
           <p>
