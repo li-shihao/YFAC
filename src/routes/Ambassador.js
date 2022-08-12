@@ -29,22 +29,19 @@ export default function Ambassador() {
           </h2>
           <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>
-              Platinum Award & S$100 Cash Prize: You have the most overall
-              participants registered. You have shown proof of promoting the
-              YFAC in your community.{" "}
+              Gold Award & S$100 Cash Prize: Awarded to the Ambassador who
+              has the greatest number of participants registered.{" "}
             </p>
             <br></br>
             <p>
-              Gold Award: You have at least 30 participants registered. You have
-              shown proof of promoting the YFAC in your community.{" "}
+              Silver Award & S$50 Cash Prize: Awarded to 2 Ambassadors with
+              the second and third greatest number of participants registered.{" "}
             </p>
             <br></br>
             <p>
-              Silver Award: You have at least 20 participants registered. You
-              have shown proof of promoting the YFAC in your community.{" "}
+              Bronze Award & Certificate: Awarded to ambassadors with at least
+              15 participants registered.{" "}
             </p>
-            <br></br>
-            <p>Bronze Award: You have at least 10 participants registered.</p>
             <br></br>
             <p>
               Note: We are counting the number of registered participants, not
@@ -60,6 +57,10 @@ export default function Ambassador() {
           </h2>
           <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>Ambassadors have to be between 13 and 18 years.</p>
+            <p>To become an ambassador, simply fill out 
+              <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" 
+              href="">
+                this form</a>.</p>
           </div>
         </div>
       </div>

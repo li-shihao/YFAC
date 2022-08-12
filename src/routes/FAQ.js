@@ -69,7 +69,7 @@ export default function FAQ() {
             </p>
             <p>
               To qualify for YFAC 2022, participants must be aged 13-18 at the
-              time of submission (Aug. 31st)
+              time of submission (Sep. 30th)
             </p>
           </div>
 
@@ -137,7 +137,7 @@ export default function FAQ() {
             <p class="text-center text-gray-800 font-bold">
               How big do the teams have to be?
             </p>
-            <p>Participants can apply in teams of 2-4.</p>
+            <p>Participants can apply individually, or in teams of 2-4.</p>
             <br></br>
             <p>
               There is no restriction on which regions each team member is from.
