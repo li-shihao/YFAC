@@ -45,18 +45,45 @@ export default function Info() {
             <span className="text-black font-semibold">research analysts</span>{" "}
             preparing reports for their 'clients'. Participants are judged on
             their ability to{" "}
-            <span className="text-rose-500 font-semibold">
-              break down a company
-            </span>
-            ,{" "}
-            <span className="text-sky-500 font-semibold">
-              write a research report
-            </span>
-            ,{" "}
-            <span className="text-amber-500 font-semibold">
-              and present their recommendations
+            <span className="text-black font-semibold">
+              break down a company, write a research report, and present their recommendations
             </span>
             .
+          </p>
+        </div>
+        <h2 className="font-extrabold text-4xl mt-20 px-4">About our Sponsor</h2>
+        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <p>
+          <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" href="https://www.theeconomicstutor.com/">The Economics Tutor</a>{" "}is a premier economics tuition centre led by 
+          highly experienced, multiple-awards winning economics tutor,{" "}
+            <span className="text-black font-semibold">Mr Kelvin Hong.</span>{" "}
+          </p>
+          <br></br>
+          <p>
+          Together with a small team of Associate Tutors, The Economics Tutor 
+          delivers economics education in a fun and digestible way 
+          to many A Level and IB Economics students in Singapore and even to students 
+          from Europe, New Zealand, China, Malaysia and Indonesia. 
+          </p>
+          <br></br>
+          <p>
+          From hilarious analogies, infographics and mind maps, 
+          concept videos, economics songs and numerous study guides 
+          and model essays publications, students are inspired to enjoy 
+          learning economics and apply the concepts 
+          in their lives and future careers. 
+          </p>
+          <br></br>
+          <p>
+          In The Economics Tutor, learning is for Life - 
+          not merely grades. Students are shown how economics 
+          concepts can help them to make sound investment decisions, 
+          grow a business, contribute to society and even for choosing a spouse!
+          </p>
+          <br></br>
+          <p>
+          Almost 90% of The Economics Tutor's students score As for their 
+          A Level Economics exams or the highest score of 7 for their IB Economics exams.
           </p>
         </div>
       </div>
