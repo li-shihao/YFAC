@@ -45,12 +45,14 @@ export default function Nav() {
                 Become Ambassador
               </a>
             </Link>
+            <Link to="/prizes">
             <a
               href="#"
               className="text-base font-medium text-gray-500 hover:text-gray-900"
             >
               Prizes
             </a>
+            </Link>
             <Link to="/guide">
               <a
                 href="#"
@@ -79,7 +81,7 @@ export default function Nav() {
           {/*buttons*/}
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
-              href="#"
+              href="https://form.jotform.com/222245707486056" target="_blank"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-emerald-600 hover:bg-emerald-700"
             >
               Register
@@ -143,7 +145,7 @@ export default function Nav() {
                     Become Ambassador
                   </a>
                 </Link>
-                <Link to="/">
+                <Link to="/prizes">
                   <a
                     href="#"
                     className="text-base font-medium text-gray-900 hover:text-gray-700"
@@ -179,8 +181,8 @@ export default function Nav() {
               {/*button*/}
               <div>
                 <a
-                  href="#"
                   className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-emerald-600 hover:bg-emerald-700"
+                  href="https://form.jotform.com/222245707486056" target="_blank"
                 >
                   Register
                 </a>

@@ -163,6 +163,16 @@ export default function FAQ() {
               menu that allows you to select the name of your ambassador.
             </p>
           </div>
+
+          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+            <p class="text-center text-gray-800 font-bold">
+              Can ambassadors also participate in the competition?
+            </p>
+            <p>
+              Yes! Ambassadors may also sign up as participants.
+            </p>
+          </div>
+
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
             During the competition
           </h2>
