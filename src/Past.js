@@ -22,7 +22,7 @@ export default function Past() {
               <p className=" text-lg text-gray-500">Nguyen My Binh An</p>
               <div className="flex justify-center w-full lg:justify-start pt-10">
                 <a
-                  href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149de2e62a50b06c033dd9b/1632230966067/yfac-analyst-report-INTC-BUY-final.pdf"
+                  href={require("./public/yfac2021gold.pdf")}
                   className="w-full"
                   target="_blank"
                   rel="noreferrer"
@@ -49,7 +49,7 @@ export default function Past() {
               <p className=" text-lg text-gray-500">Do Thi Thuy Duong</p>
               <div className="flex justify-center w-full lg:justify-start pt-10">
                 <a
-                  href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149de6d7a38f773b33870ba/1632231036908/YFAC+-DNSD+Team.pdf"
+                  href={require("./public/yfac2021silver.pdf")}
                   className="w-full"
                   target="_blank"
                   rel="noreferrer"
@@ -77,7 +77,7 @@ export default function Past() {
               <br></br>
               <div className="flex justify-center w-full lg:justify-start pt-10">
                 <a
-                  href="https://static1.squarespace.com/static/60d2ddc037c96b172303e14b/t/6149deae1c5a5a4c80a9dd8e/1632231093095/Nguyen+Syan+YFAC+Tesla+Analyst+Report+Final+PDF+Submission.pdf"
+                  href={require("./public/yfac2021bronze.pdf")}
                   className="w-full"
                   target="_blank"
                   rel="noreferrer"

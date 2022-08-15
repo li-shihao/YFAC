@@ -1,6 +1,8 @@
 import Nav from "../Nav";
 import Footer from "../Footer";
 import React from "react";
+import JotformEmbed from 'react-jotform-embed';
+
 
 export default function Ambassador() {
   return (
@@ -22,6 +24,10 @@ export default function Ambassador() {
               honor their contributions, and the Ambassador who gets the most
               number of people to register for the YFAC will win a S$100 cash
               prize.
+              </p>
+              <br></br>
+              <p>
+              Note: Ambassadors may also participate in the competition itself.
             </p>
           </div>
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
@@ -57,11 +63,14 @@ export default function Ambassador() {
           </h2>
           <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>Ambassadors have to be between 13 and 18 years.</p>
-            <p>To become an ambassador, simply fill out 
+            <br></br>
+            <p>To become an ambassador, simply fill out{" "}
               <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" 
-              href="">
-                this form</a>.</p>
+              href="https://form.jotform.com/222246463589060" target="_blank">
+                this form</a>.</p>    
           </div>
+          
+           
         </div>
       </div>
       <Footer />

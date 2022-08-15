@@ -35,7 +35,7 @@ export default function Hero() {
               <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
                   <a
-                    href="#"
+                    href="https://form.jotform.com/222245707486056" target="_blank"
                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-black bg-white hover:bg-gray-200 md:py-4 md:text-lg md:px-10"
                   >
                     {" "}

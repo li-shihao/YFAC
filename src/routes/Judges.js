@@ -14,6 +14,10 @@ export default function Judges() {
             <div className="flex-col mx-8">
             <h2 class="text-xl text-gray-800 font-bold">Mr. Kelvin Hong</h2>
             <br></br>
+            <p class="italic">
+              Founder, The Economics Tutor
+            </p>
+            <br></br>
             <p>Kelvin is a serial entrepreneur who founded 
               and sold off numerous companies before returning
               to his early passions of teaching and economics. 
@@ -23,6 +27,24 @@ export default function Judges() {
               Kelvin was part of the Administrative Service of 
               the Singapore Government before he embarked on 
               his entrepreneurship journey.</p>
+              <br></br>
+              <h2 class="text-xl text-gray-800 font-bold">Mr. Dennis Goh</h2>
+            <br></br>
+            <p class="italic">
+            Co-Founder and Executive Chairman of Lyte Ventures
+            </p>
+            <br></br>
+            <p>Dennis Goh is the Co-Founder and Executive Chairman 
+              of Lyte Ventures, Southeast Asia’s largest FinTech company for 
+              freelancer solutions. A former Deputy Head of the Strategic Policy 
+              Office for the Singapore Government, Dennis graduated from the 
+              London School of Economics with First Class Honors in Economics 
+              and the University of Cambridge with a Masters in Economics. </p>
+              <br></br>
+              <p>He has amassed a wealth of experience in the venture capital and 
+              entrepreneurial space, having been a partner at Wavemaker Partners 
+              as well as founding HungryGoWhere.com in 2006, a social media 
+              platform in Singapore with more than 1.5 million monthly users.</p>
               <br></br>
               <h2 class="text-xl text-gray-800 font-bold">Check back soon for the full judge lineup!</h2>
             </div>
