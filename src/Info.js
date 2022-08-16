@@ -2,9 +2,8 @@ export default function Info() {
   return (
     <div className="flex flex-row justify-center mt-20">
       <div className="flex justify-center items-center flex-col max-w-4xl font-Inter">
-        <h4 className="text-emerald-600 font-bold">INTRODUCING</h4>
         <h2 className="font-extrabold text-4xl mt-4 px-4">What is the YFAC?</h2>
-        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+        <div className="leading-relaxed text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
           <p>
             Financial Analysis Competitions challenge participants to build the
             best financial model and presentation based on a case study. These
@@ -50,7 +49,7 @@ export default function Info() {
           </p>
           </div>
         <h2 className="font-extrabold text-4xl mt-20 px-4">About our Sponsor</h2>
-        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+        <div className="leading-relaxed text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
           <p>
           <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" href="https://www.theeconomicstutor.com/">The Economics Tutor</a>{" "}is a premier economics tuition centre led by 
           highly experienced, multiple-awards winning economics tutor,{" "}
@@ -85,7 +84,7 @@ export default function Info() {
           </p>
         </div>
         <h2 className="font-extrabold text-4xl mt-20 px-4">The BAUM Movement</h2>
-        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+        <div className="leading-relaxed text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
         <p>
           YFAC is organized in collaboration with <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" href="https://www.thebaummovement.org/">The BAUM Movement.</a>{" "}
           Founded in 2021, The BAUM Movement aims to educate and encourage Generation Z investors 

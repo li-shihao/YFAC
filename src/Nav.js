@@ -111,9 +111,14 @@ export default function Nav() {
         >
           <div className="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-white divide-y-2 divide-gray-50">
             <div className="pt-5 pb-6 px-5">
-              <div className="flex items-center justify-between">
+              <div className="flex flex-row items-center justify-between">
                 <Link to="/">
-                  <div>
+                  <div className="flex flex-row">
+                  <svg viewBox="0 0 388.15 587.41" class="fill-emerald-900 w-10 h-14 mr-5">
+            <path class="cls-1" d="M302.3,21.35a65.26,65.26,0,0,1,65,65V501.76a65.26,65.26,0,0,1-65,65H86.14a65.26,65.26,0,0,1-65-65V86.35a65.26,65.26,0,0,1,65-65H302.3m0-21H86.14a86.25,86.25,0,0,0-86,86V501.76a86.25,86.25,0,0,0,86,86H302.3a86.25,86.25,0,0,0,86-86V86.35a86.25,86.25,0,0,0-86-86Z" transform="translate(-0.14 -0.35)"/>
+            <path class="cls-1" d="M21,465.12a89,89,0,0,1,41.73-25.78c5.78-1.6,10-2.12,17-3,14.21-1.77,18.64-.88,27.45-1.69a99.42,99.42,0,0,0,40.16-12.91,79.22,79.22,0,0,0,23-19.06,76.75,76.75,0,0,0,14-26.77V323.39c-1.13-2.45-2.83-6-5.07-10.13-6.61-12.21-11-20.24-18.85-26.38a43.66,43.66,0,0,0-19.35-8.54c-21.75-3.46-38.79,13.42-41,15.71L85.78,280.87s5.31-12.14,38.24-23c0,0-22.26-19.26-79.69-16.33v-22.6s86.35-8.3,140,62.25V232.05A177.9,177.9,0,0,0,145.28,196C95.35,162.32,41.9,164,20.94,165.86L20.7,144.8c4.94-.5,10.12-.85,15.52-1a225.37,225.37,0,0,1,42.17,2.69s-11.47-12-12.86-44.31H87.77s-3.47,35.1,36.15,57.7c0,0,31.73,11.81,60.45,38.93V132.05S165.81,75.39,90,61.14L94.9,40.63s48.94,3.13,89.47,49V37.85h20V146.3s27.8-32.33,46.92-42.41c0,0,23.64-15.29,23.64-47.61l21.2-1.74s4.52,3.47-5.56,34.06A137.91,137.91,0,0,1,307.69,84a143.38,143.38,0,0,1,59.76.83v22.63c-11.9-2.81-50.13-10.24-92.21,8.91-46.66,21.25-66.13,60.66-70.85,71V247.1s16-21.9,45.88-32.67a121.37,121.37,0,0,1,28.4-36.85c34.65-30.29,76.28-30.83,88.7-30.52l0,21.52a89.43,89.43,0,0,0-28.19,1c-31,6.15-49.74,27.35-56.2,35.45A164.82,164.82,0,0,1,307,203a168.32,168.32,0,0,1,60.33,10.51q0,11.6,0,23.21A127.27,127.27,0,0,0,306,224.81c-60.78,3.85-96.22,52.23-101.6,59.83v61.52S225.94,421.24,277,432c3.82,0,9.06.16,15.28.56,5.24.33,11.93.76,18.51,1.83a112.86,112.86,0,0,1,29.52,9.29,123.52,123.52,0,0,1,27,16.94q0,16.8.05,33.62a82.42,82.42,0,0,0-13.86-16.79c-19-17.57-41.33-21.44-51.46-22.51-3.06-.13-7.59-.39-13.06-.94a210.39,210.39,0,0,1-32.59-5.8c-26-7.52-50.28-46.42-53.07-50.95l.78,41.19a31.13,31.13,0,0,0,4,11.82,31.66,31.66,0,0,0,7.8,8.8c10.14,8.13,23.87,11.22,27.43,12,16.9,3.66,32.08,6.6,46,9,0,0,47,3.59,77.84,41.56v29.26H353.05v-3.84s2.09-33.78-77.33-47a118,118,0,0,1,6.92,15.52,122.88,122.88,0,0,1,6.76,51.31H268a81.77,81.77,0,0,0-3.55-35.07c-9-27-29.75-40.88-36.49-45,0,0-21.6-2.09-36.58-23.34,0,0-2.44,8.36-25.08,24.39a104,104,0,0,0-17.68,20.05c-15.56,23.09-17.91,46.83-18.19,59l-23.7,0A148.91,148.91,0,0,1,110,543.92a152.3,152.3,0,0,1,20.47-49.09s-63.75,2.09-75.94,65.49L34.66,548.13S49.3,475,133.59,473.93c0,0,51.91-5.22,50.51-57.13a104.27,104.27,0,0,1-28.42,23.88c-21.24,12-43.76,14.44-54.48,15.49-17.41,1.7-23.35-.52-36.35,4.44A71.16,71.16,0,0,0,40.78,476a72.79,72.79,0,0,0-20,36.56Q20.91,488.84,21,465.12Z" transform="translate(-0.14 -0.35)"/>
+            <path class="cls-1" d="M627.37,199.51" transform="translate(-0.14 -0.35)"/>
+            </svg>
                     <svg
                       viewBox="0 0 193 261"
                       class="fill-emerald-900 w-10 h-14"
@@ -137,7 +142,7 @@ export default function Nav() {
                 <Link to="/">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     Home
                   </a>
@@ -145,7 +150,7 @@ export default function Nav() {
                 <Link to="/ambassador">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     Become Ambassador
                   </a>
@@ -153,7 +158,7 @@ export default function Nav() {
                 <Link to="/prizes">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     Prizes
                   </a>
@@ -161,7 +166,7 @@ export default function Nav() {
                 <Link to="/guide">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     Competition Guidelines
                   </a>
@@ -169,7 +174,7 @@ export default function Nav() {
                 <Link to="/judges">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     Judges
                   </a>
@@ -177,7 +182,7 @@ export default function Nav() {
                 <Link to="/faq">
                   <a
                     href="#"
-                    className="text-base font-medium text-gray-900 hover:text-gray-700"
+                    className="text-3xl font-medium text-gray-900 hover:text-gray-700"
                   >
                     FAQ
                   </a>
@@ -186,7 +191,7 @@ export default function Nav() {
               {/*button*/}
               <div>
                 <a
-                  className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-emerald-600 hover:bg-emerald-700"
+                  className="w-full pt-5 pb-5 flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-3xl font-medium text-white bg-emerald-600 hover:bg-emerald-700"
                   href="https://form.jotform.com/222245707486056" target="_blank"
                 >
                   Register

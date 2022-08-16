@@ -14,7 +14,7 @@ export default function Ambassador() {
           <h2 className="font-extrabold text-4xl mt-4 text-center px-4">
             We are looking for outgoing, passionate people to promote the YFAC
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>
               The YFAC is an international competition, so we are looking for
               Ambassadors to promote the competition in different schools,
@@ -31,7 +31,7 @@ export default function Ambassador() {
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
             Ambassador awards and prizes
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>
               Gold Award & S$100 Cash Prize: Awarded to the Ambassador who
               has the greatest number of participants registered.{" "}
@@ -59,7 +59,7 @@ export default function Ambassador() {
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
             Ambassador requirements
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>Ambassadors have to be between 13 and 18 years.</p>
             <br></br>
             Ambassadors will need to attend the virtual YFAC finals to receive
