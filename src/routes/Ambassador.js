@@ -1,8 +1,6 @@
 import Nav from "../Nav";
 import Footer from "../Footer";
 import React from "react";
-import JotformEmbed from 'react-jotform-embed';
-
 
 export default function Ambassador() {
   return (
@@ -40,7 +38,7 @@ export default function Ambassador() {
             </p>
             <br></br>
             <p>
-              Silver Award & S$50 Cash Prize: Awarded to 2 Ambassadors with
+              Silver Award & Certificate: Awarded to 2 Ambassadors with
               the second and third greatest number of participants registered.{" "}
             </p>
             <br></br>
@@ -63,6 +61,10 @@ export default function Ambassador() {
           </h2>
           <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>Ambassadors have to be between 13 and 18 years.</p>
+            <br></br>
+            Ambassadors will need to attend the virtual YFAC finals to receive
+            their awards and certificates.
+            <br></br>
             <br></br>
             <p>To become an ambassador, simply fill out{" "}
               <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" 
