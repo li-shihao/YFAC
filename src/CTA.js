@@ -9,7 +9,7 @@ export default function CTA() {
               src="https://unsplash.com/photos/0NJ9urGXrIg/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8c3VzdGFpbmFibGV8ZW58MHwxfHx8MTY1OTYwMjI4Mw&force=true"
             ></img>
           </div>
-          <div className="-z-1 flex  flex-col font-Inter rounded-2xl bg-emerald-600 max-w-5xl lg:max-w-none text-white px-10 pt-32 lg:pb-24 lg:pt-24 pb-10 shadow-lg shadow-emerald-300 w-11/12 lg:w-auto lg:h-auto lg:max-h-96 lg:pl-44 lg:pr-24">
+          <div className="-z-1 flex  flex-col font-Inter rounded-2xl bg-emerald-600 max-w-5xl lg:max-w-none text-white px-10 pt-32 lg:pb-24 lg:pt-24 pb-10 shadow-lg shadow-emerald-300 w-11/12 lg:w-auto lg:h-auto lg:pl-44 lg:pr-24">
             <h4 className="font-extrabold text-4xl lg:text-3xl">
               Sustainable Investing
             </h4>
@@ -18,6 +18,11 @@ export default function CTA() {
               of our planet? This year, participants will incorporate
               Environmental, Social, and Governance (ESG) perspectives into
               their investment analyses.
+              <br></br>
+              <br></br>
+              YFAC 2022 is organized in conjunction with The BAUM Movement, 
+              which aims to educate and encourage Gen Zers to steward our world 
+              through sustainable investing. 
             </p>
             <div className="flex justify-center w-full lg:justify-start">
               <a

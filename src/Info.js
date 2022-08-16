@@ -36,9 +36,7 @@ export default function Info() {
             Students, regardless of geographical location, need only to have an
             internet connection to participate.
           </p>
-        </div>
-        <h2 className="font-extrabold text-4xl mt-20 px-4">More Information</h2>
-        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <br></br>
           <p>
             Working individually or in teams, students gain real-world
             experience as they assume the roles of{" "}
@@ -50,7 +48,7 @@ export default function Info() {
             </span>
             .
           </p>
-        </div>
+          </div>
         <h2 className="font-extrabold text-4xl mt-20 px-4">About our Sponsor</h2>
         <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
           <p>
@@ -85,6 +83,19 @@ export default function Info() {
           Almost 90% of The Economics Tutor's students score As for their 
           A Level Economics exams or the highest score of 7 for their IB Economics exams.
           </p>
+        </div>
+        <h2 className="font-extrabold text-4xl mt-20 px-4">The BAUM Movement</h2>
+        <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+        <p>
+          YFAC is organized in collaboration with <a className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500" href="https://www.thebaummovement.org/">The BAUM Movement.</a>{" "}
+          Founded in 2021, The BAUM Movement aims to educate and encourage Generation Z investors 
+          to become stewards of a radically changing world through the lens of finance. 
+        </p>
+        <br></br>
+        <p>This is accomplished through providing education on investing fundamentals and corporate sustainability; facilitating a community for dialogue surrounding sustainable investing; and recognising resilient businesses which innovate solutions to global issues are best positioned to thrive.
+</p>
+        <br></br>
+        <p>At the start of this year, they were awarded funding from the Ministry of Sustainability and the Environment as part of the SG Eco Fund, which recognises community based projects with the potential to advance environmental sustainability within Singapore.</p>
         </div>
       </div>
     </div>
