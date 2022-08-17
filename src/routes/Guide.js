@@ -12,7 +12,7 @@ export default function Guide() {
           <h2 className="font-extrabold text-4xl mt-4 text-center px-4">
             Rules
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="font-medium text-gray-800">
               Participants must be between 13-18 years of age at the time of
               submission.{" "}
@@ -55,7 +55,7 @@ export default function Guide() {
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
             Judging criteria
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="font-medium text-gray-800">
               Investment rationale and strategy: clear investment rationale and
               strategy is supported by case materials.
@@ -92,7 +92,7 @@ export default function Guide() {
           <h2 className="font-extrabold text-4xl mt-20 text-center px-4">
             Registration guide
           </h2>
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="font-medium text-gray-800">
               Participants register individually or in teams of 2-4
             </p>

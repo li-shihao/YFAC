@@ -25,7 +25,7 @@ export default function Hero() {
                 </span>
                 <span class="block text-black xl:inline">2022</span>
               </h1>
-              <p className="mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+              <p className="mt-3 lg:pr-3 text-base text-white sm:mt-5 sm:text-3xl sm:max-w-3xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                 The Youth Financial Analysis Competition is a free,
                 international stock pitch event for high school students.
                 Participants work individually or in teams of up to 4 to compete

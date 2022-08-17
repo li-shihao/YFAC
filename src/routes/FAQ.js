@@ -13,7 +13,7 @@ export default function FAQ() {
             General
           </h2>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">What is YFAC?</p>
             <p>
               The Youth Financial Analysis Competition (YFAC) is an annual,
@@ -51,7 +51,7 @@ export default function FAQ() {
             </ul>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               How much prior experience is required?
             </p>
@@ -63,7 +63,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               Who can participate in YFAC 2022?
             </p>
@@ -73,7 +73,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               What is the schedule for YFAC 2022?
             </p>
@@ -99,7 +99,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               Where and how will the events take place?
             </p>
@@ -116,7 +116,7 @@ export default function FAQ() {
             Registration
           </h2>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               How much does it cost to enter?
             </p>
@@ -126,14 +126,14 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               Can I enter as an individual if I don't have a team?
             </p>
             <p>Yes. Participants may enter individually.</p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               How big do the teams have to be?
             </p>
@@ -144,7 +144,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               Can more team members be added after initial registration?
             </p>
@@ -154,7 +154,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               How do I sign up under the name of my ambassador?
             </p>
@@ -164,7 +164,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               Can ambassadors also participate in the competition?
             </p>
@@ -177,7 +177,7 @@ export default function FAQ() {
             During the competition
           </h2>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               What is the submission process for YFAC 2022?
             </p>
@@ -187,7 +187,7 @@ export default function FAQ() {
             </p>
           </div>
 
-          <div className="text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
+          <div className="lg:text-xl text-3xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p class="text-center text-gray-800 font-bold">
               How many different case study options are available?
             </p>
