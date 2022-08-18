@@ -21,7 +21,8 @@ export default function Guide() {
 
             <ul class="list-disc px-5">
               <li class="my-2">
-                The deadline for submission is September 30th 23:59 UTC +08:00.
+                The deadline for submission is September 30th 23:59 UTC +08:00.{" "}<span className="text-black font-semibold">However,
+                as case briefs will be sent out on September 10th, we suggest you register before the 10th.</span>
               </li>
 
               <li class="my-2">
