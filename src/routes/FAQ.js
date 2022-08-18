@@ -93,7 +93,7 @@ export default function FAQ() {
             </p>
             <br></br>
             <p>
-              <span class="font-medium text-gray-800">October 14th:</span>{" "}
+              <span class="font-medium text-gray-800">October 15th:</span>{" "}
               Elevator pitch presentations by top 3 finalists. Ambassadors
               awarded, and winners announced.
             </p>
