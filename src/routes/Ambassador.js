@@ -11,6 +11,14 @@ export default function Ambassador() {
           <h4 className="text-emerald-600 font-bold text-center">
             AMBASSADOR PROGRAM
           </h4>
+          <div className="flex justify-center">
+                <a
+                  className="justify-center w-2/3 lg:w-1/4 mt-7 mb-5 pt-5 pb-5 flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-3xl lg:text-xl font-medium text-white bg-emerald-600 hover:bg-emerald-700"
+                  href="https://form.jotform.com/222246463589060" target="_blank"
+                >
+                  Sign up here!
+                </a>
+          </div>
           <h2 className="font-extrabold text-4xl mt-4 text-center px-4">
             We are looking for outgoing, passionate people to promote the YFAC
           </h2>
