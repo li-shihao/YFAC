@@ -30,9 +30,9 @@ export default function Ambassador() {
               honor their contributions, and the Ambassador who gets the most
               number of people to register for the YFAC will win a S$100 cash
               prize.
-              </p>
-              <br></br>
-              <p>
+            </p>
+            <br></br>
+            <p>
               Note: Ambassadors may also participate in the competition itself.
             </p>
           </div>
@@ -41,13 +41,13 @@ export default function Ambassador() {
           </h2>
           <div className="text-3xl lg:text-xl mt-10 text-gray-500 font-normal leading-relaxed px-5">
             <p>
-              Gold Award & S$100 Cash Prize: Awarded to the Ambassador who
-              has the greatest number of participants registered.{" "}
+              Gold Award & S$100 Cash Prize: Awarded to the Ambassador who has
+              the greatest number of participants registered.{" "}
             </p>
             <br></br>
             <p>
-              Silver Award & Certificate: Awarded to 2 Ambassadors with
-              the second and third greatest number of participants registered.{" "}
+              Silver Award & Certificate: Awarded to 2 Ambassadors with the
+              second and third greatest number of participants registered.{" "}
             </p>
             <br></br>
             <p>
@@ -74,9 +74,18 @@ export default function Ambassador() {
             their awards and certificates.
             <br></br>
             <br></br>
+            <p>
+              To become an ambassador, simply fill out{" "}
+              <a
+                className="underline decoration-solid hover:decoration-wavy font-extrabold text-sky-500"
+                href="https://form.jotform.com/222246463589060"
+                target="_blank"
+              >
+                this form
+              </a>
+              .
+            </p>
           </div>
-          
-           
         </div>
       </div>
       <Footer />
