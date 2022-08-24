@@ -5,21 +5,21 @@ export default function Past() {
         <h4 className="text-emerald-600 font-bold">CONGRATULATIONS</h4>
         <h2 className="font-extrabold text-4xl mt-4">2021 Winners</h2>
         <div className="flex flex-col items-center lg:flex-row gap-10">
-          <div className="lg:order-2 -z-1 mt-10 flex  flex-col font-Inter rounded-2xl overflow-hidden bg-white max-w-5xl lg:max-w-none text-black lg:pb-10 pb-10 border-2 border-gray-200 shadow-md w-11/12 lg:w-1/3">
+          <div className="lg:order-2 -z-1 mt-10 flex flex-col font-Inter rounded-2xl overflow-hidden bg-white max-w-5xl lg:max-w-none text-black lg:pb-10 pb-10 border-2 border-gray-200 shadow-md w-11/12 lg:w-1/3">
             <div className="overflow-hidden lg:overflow-visible">
               <img src="https://images.squarespace-cdn.com/content/v1/60d2ddc037c96b172303e14b/1632230836405-0O25ZTBCJBSXD3L54Q6Q/image-asset.png?format=750w"></img>
             </div>
             <div className="pt-10 px-10">
               <h4 className="sm:text-center font-extrabold text-4xl lg:text-3xl">Champions</h4>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500 mt-5">
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500 mt-5">
                 Kasikrit Chantharuang
               </p>
               <br></br>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl text-lg text-gray-500">Jarold Ong Chu Chin</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500">Jarold Ong Chu Chin</p>
               <br></br>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500">Sivakumar Aadithya</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500">Sivakumar Aadithya</p>
               <br></br>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500">Nguyen My Binh An</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500">Nguyen My Binh An</p>
               <div className="flex justify-center w-full lg:justify-start pt-10">
                 <a
                   href={require("./public/yfac2021gold.pdf")}
@@ -27,7 +27,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="sm:leading-relaxed sm:text-3xl bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="sm:leading-relaxed text-3xl lg:text-lg bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -42,11 +42,11 @@ export default function Past() {
               <h4 className="sm:text-center font-extrabold text-4xl lg:text-3xl">
                 1st Runners-up
               </h4>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl text-lg text-gray-500 mt-5">Do Nga Linh</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500 mt-5">Do Nga Linh</p>
               <br></br>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500">Pham Khanh Linh</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500">Pham Khanh Linh</p>
               <br></br>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500">Do Thi Thuy Duong</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500">Do Thi Thuy Duong</p>
               <div className="flex justify-center w-full lg:justify-start pt-10">
                 <a
                   href={require("./public/yfac2021silver.pdf")}
@@ -54,7 +54,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="sm:text-center sm:leading-relaxed sm:text-3xl bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg  bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
@@ -69,7 +69,7 @@ export default function Past() {
               <h4 className="sm:text-center font-extrabold text-4xl lg:text-3xl">
                 2nd Runner-up
               </h4>
-              <p className="sm:text-center sm:leading-relaxed sm:text-3xl  text-lg text-gray-500 mt-5">Nguyen Sy An</p>
+              <p className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg text-gray-500 mt-5">Nguyen Sy An</p>
               <br></br>
               <br></br>
               <br></br>
@@ -82,7 +82,7 @@ export default function Past() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="sm:text-center sm:leading-relaxed sm:text-3xl bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
+                  <button className="sm:text-center sm:leading-relaxed text-3xl lg:text-lg  bg-emerald-600 hover:bg-emerald-700 px-20 lg:px-10 py-3 w-full text-white text-md font-medium shadow-md shadow-emerald-200 rounded-lg">
                     Read here
                   </button>
                 </a>
