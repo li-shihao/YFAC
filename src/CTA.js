@@ -36,6 +36,11 @@ export default function CTA() {
                 </button>
               </a>
             </div>
+            <p className="mt-5">
+              Or{" "}<a href="mailto:contact@yfacomp.com" class="hover:underline">
+              email us
+            </a>
+            </p>
           </div>
         </div>
       </div>

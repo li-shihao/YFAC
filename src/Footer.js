@@ -45,7 +45,7 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a href="mailto:contact@yfa-comp.com" class="hover:underline">
+            <a href="mailto:contact@yfacomp.com" class="hover:underline">
               Contact
             </a>
           </li>
