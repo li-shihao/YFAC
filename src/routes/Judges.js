@@ -26,6 +26,18 @@ export default function Judges() {
               the Singapore Government before he embarked on 
               his entrepreneurship journey.</p>
               <br></br>
+              <p class="leading-relaxed">
+              A Valedictorian in the National University of Singapore 
+              where he obtained his 1st Class Honours in Economics, 
+              Kelvin is no stranger to such competitions. He was the 
+              Chairman of the National Economics Quiz Committee. 
+              He is also a Youth Mentor and Coach - particularly in 
+              the area of Entrepreneurship and Investments. Highly 
+              recognised by top educators, he has received many 
+              academic awards and his publications for A Level and 
+              IB Economics are highly sought after worldwide.
+              </p>
+              <br></br>
               <br></br>
 
               <h2 class="text-gray-800 font-bold">Mr. Dennis Goh</h2>
