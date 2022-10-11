@@ -86,10 +86,10 @@ export default function Nav() {
           {/*buttons*/}
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
-              href="https://form.jotform.com/222245707486056" target="_blank"
+              href="https://form.jotform.com/222827796048064" target="_blank"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-emerald-600 hover:bg-emerald-700"
             >
-              Register
+              Watch the live finals
             </a>
           </div>
         </div>
