@@ -7,6 +7,7 @@ import Guide from "./routes/Guide";
 import FAQ from "./routes/FAQ";
 import Judges from "./routes/Judges";
 import Prizes from "./routes/Prizes";
+import Winners from "./routes/winners";
 import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -20,6 +21,7 @@ root.render(
         <Route path="/faq" element={<FAQ />} />
         <Route path="/judges" element={<Judges />} />
         <Route path="/prizes" element={<Prizes />} />
+        <Route path="/winners" element={<Winners />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
